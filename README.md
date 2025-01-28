@@ -1,6 +1,6 @@
-# Sudoku Solver
+# Sudoku Solver using CNN, OpenCV & ReactJS
 
-This web application efficiently solves Sudoku puzzles using a combination of *image processing, **machine learning, and **Backtracking Algorithm* techniques.
+This web application efficiently solves Sudoku puzzles using advanced techniques like image processing, machine learning, and backtracking algorithms. By integrating these approaches, the application processes Sudoku images, recognizes digits, and computes solutions accurately.
 
 ---
 
@@ -94,12 +94,12 @@ The implemented Sudoku Solver pipeline includes:
 3. *Upload an image*:
    - Use the frontend interface to upload a Sudoku puzzle image.
 
-4. *View Results*:
+4. *Results*:
    - Click the solve button, and the solution will be displayed interactively on the web interface.
 
 ---
 
-## Interface
+## User Interface
 ### 1. Landing Page
 | Dark Mode                       | Light Mode                      |
 |---------------------------------|---------------------------------|
